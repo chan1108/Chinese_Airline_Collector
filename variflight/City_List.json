@@ -1,0 +1,512 @@
+[
+  {
+    "CityCode": "SHA"
+  },
+  {
+    "CityCode": "BJS"
+  },
+  {
+    "CityCode": "SYX"
+  },
+  {
+    "CityCode": "HAK"
+  },
+  {
+    "CityCode": "BHY"
+  },
+  {
+    "CityCode": "JHG"
+  },
+  {
+    "CityCode": "ZUH"
+  },
+  {
+    "CityCode": "NNG"
+  },
+  {
+    "CityCode": "SZX"
+  },
+  {
+    "CityCode": "CAN"
+  },
+  {
+    "CityCode": "SWA"
+  },
+  {
+    "CityCode": "XMN"
+  },
+  {
+    "CityCode": "JJN"
+  },
+  {
+    "CityCode": "KMG"
+  },
+  {
+    "CityCode": "KWL"
+  },
+  {
+    "CityCode": "KOW"
+  },
+  {
+    "CityCode": "FOC"
+  },
+  {
+    "CityCode": "KWE"
+  },
+  {
+    "CityCode": "LJG"
+  },
+  {
+    "CityCode": "CSX"
+  },
+  {
+    "CityCode": "DYG"
+  },
+  {
+    "CityCode": "CKG"
+  },
+  {
+    "CityCode": "YIH"
+  },
+  {
+    "CityCode": "CTU"
+  },
+  {
+    "CityCode": "WUH"
+  },
+  {
+    "CityCode": "MIG"
+  },
+  {
+    "CityCode": "SIA"
+  },
+  {
+    "CityCode": "CGO"
+  },
+  {
+    "CityCode": "RIZ"
+  },
+  {
+    "CityCode": "TAO"
+  },
+  {
+    "CityCode": "LHW"
+  },
+  {
+    "CityCode": "WEH"
+  },
+  {
+    "CityCode": "YNT"
+  },
+  {
+    "CityCode": "TYN"
+  },
+  {
+    "CityCode": "SJW"
+  },
+  {
+    "CityCode": "INC"
+  },
+  {
+    "CityCode": "YZY"
+  },
+  {
+    "CityCode": "DLC"
+  },
+  {
+    "CityCode": "TSN"
+  },
+  {
+    "CityCode": "KHG"
+  },
+  {
+    "CityCode": "YKH"
+  },
+  {
+    "CityCode": "BAV"
+  },
+  {
+    "CityCode": "SHE"
+  },
+  {
+    "CityCode": "NBS"
+  },
+  {
+    "CityCode": "URC"
+  },
+  {
+    "CityCode": "CGQ"
+  },
+  {
+    "CityCode": "HRB"
+  },
+  {
+    "CityCode": "DQA"
+  },
+  {
+    "CityCode": "HLD"
+  },
+  {
+    "CityCode": "HUZ"
+  },
+  {
+    "CityCode": "ZYI"
+  },
+  {
+    "CityCode": "YBP"
+  },
+  {
+    "CityCode": "CGD"
+  },
+  {
+    "CityCode": "YIW"
+  },
+  {
+    "CityCode": "NGB"
+  },
+  {
+    "CityCode": "HGH"
+  },
+  {
+    "CityCode": "WXN"
+  },
+  {
+    "CityCode": "HFE"
+  },
+  {
+    "CityCode": "NTG"
+  },
+  {
+    "CityCode": "IQN"
+  },
+  {
+    "CityCode": "CIH"
+  },
+  {
+    "CityCode": "XNN"
+  },
+  {
+    "CityCode": "KRL"
+  },
+  {
+    "CityCode": "YIN"
+  },
+  {
+    "CityCode": "HEK"
+  },
+  {
+    "CityCode": "OHE"
+  },
+  {
+    "CityCode": "KHN"
+  },
+  {
+    "CityCode": "WUX"
+  },
+  {
+    "CityCode": "NKG"
+  },
+  {
+    "CityCode": "TNA"
+  },
+  {
+    "CityCode": "WNZ"
+  },
+  {
+    "CityCode": "YNZ"
+  },
+  {
+    "CityCode": "XUZ"
+  },
+  {
+    "CityCode": "HET"
+  },
+  {
+    "CityCode": "DLU"
+  },
+  {
+    "CityCode": "TXN"
+  },
+  {
+    "CityCode": "NAO"
+  },
+  {
+    "CityCode": "CZX"
+  },
+  {
+    "CityCode": "HIA"
+  },
+  {
+    "CityCode": "LYG"
+  },
+  {
+    "CityCode": "MDG"
+  },
+  {
+    "CityCode": "ZHA"
+  },
+  {
+    "CityCode": "MXZ"
+  },
+  {
+    "CityCode": "TCZ"
+  },
+  {
+    "CityCode": "BFJ"
+  },
+  {
+    "CityCode": "YIC"
+  },
+  {
+    "CityCode": "HYN"
+  },
+  {
+    "CityCode": "LXA"
+  },
+  {
+    "CityCode": "ENH"
+  },
+  {
+    "CityCode": "XFN"
+  },
+  {
+    "CityCode": "YTY"
+  },
+  {
+    "CityCode": "FUG"
+  },
+  {
+    "CityCode": "NNY"
+  },
+  {
+    "CityCode": "LYI"
+  },
+  {
+    "CityCode": "JNG"
+  },
+  {
+    "CityCode": "ENY"
+  },
+  {
+    "CityCode": "DSN"
+  },
+  {
+    "CityCode": "YNJ"
+  },
+  {
+    "CityCode": "HSN"
+  },
+  {
+    "CityCode": "LZH"
+  },
+  {
+    "CityCode": "LZO"
+  },
+  {
+    "CityCode": "XIC"
+  },
+  {
+    "CityCode": "LZY"
+  },
+  {
+    "CityCode": "SYM"
+  },
+  {
+    "CityCode": "PZI"
+  },
+  {
+    "CityCode": "JGS"
+  },
+  {
+    "CityCode": "DCY"
+  },
+  {
+    "CityCode": "KGT"
+  },
+  {
+    "CityCode": "JZH"
+  },
+  {
+    "CityCode": "HDG"
+  },
+  {
+    "CityCode": "AKU"
+  },
+  {
+    "CityCode": "WDS"
+  },
+  {
+    "CityCode": "ZHY"
+  },
+  {
+    "CityCode": "DNH"
+  },
+  {
+    "CityCode": "CIF"
+  },
+  {
+    "CityCode": "AAT"
+  },
+  {
+    "CityCode": "HMI"
+  },
+  {
+    "CityCode": "KRY"
+  },
+  {
+    "CityCode": "LNL"
+  },
+  {
+    "CityCode": "JIC"
+  },
+  {
+    "CityCode": "JGN"
+  },
+  {
+    "CityCode": "BPE"
+  },
+  {
+    "CityCode": "ZQZ"
+  },
+  {
+    "CityCode": "CDE"
+  },
+  {
+    "CityCode": "GYU"
+  },
+  {
+    "CityCode": "JMU"
+  },
+  {
+    "CityCode": "YCU"
+  },
+  {
+    "CityCode": "HTN"
+  },
+  {
+    "CityCode": "QSZ"
+  },
+  {
+    "CityCode": "KCA"
+  },
+  {
+    "CityCode": "NLT"
+  },
+  {
+    "CityCode": "BPL"
+  },
+  {
+    "CityCode": "TCG"
+  },
+  {
+    "CityCode": "FYJ"
+  },
+  {
+    "CityCode": "JGD"
+  },
+  {
+    "CityCode": "WUA"
+  },
+  {
+    "CityCode": "TGO"
+  },
+  {
+    "CityCode": "XIL"
+  },
+  {
+    "CityCode": "HLH"
+  },
+  {
+    "CityCode": "HNY"
+  },
+  {
+    "CityCode": "DOY"
+  },
+  {
+    "CityCode": "JIQ"
+  },
+  {
+    "CityCode": "YYA"
+  },
+  {
+    "CityCode": "SQJ"
+  },
+  {
+    "CityCode": "AQG"
+  },
+  {
+    "CityCode": "LYA"
+  },
+  {
+    "CityCode": "TVS"
+  },
+  {
+    "CityCode": "JNZ"
+  },
+  {
+    "CityCode": "NDG"
+  },
+  {
+    "CityCode": "LLV"
+  },
+  {
+    "CityCode": "UYN"
+  },
+  {
+    "CityCode": "RLK"
+  },
+  {
+    "CityCode": "YSQ"
+  },
+  {
+    "CityCode": "DBC"
+  },
+  {
+    "CityCode": "LDS"
+  },
+  {
+    "CityCode": "NZH"
+  },
+  {
+    "CityCode": "DIG"
+  },
+  {
+    "CityCode": "JMJ"
+  },
+  {
+    "CityCode": "CWJ"
+  },
+  {
+    "CityCode": "LNJ"
+  },
+  {
+    "CityCode": "LUM"
+  },
+  {
+    "CityCode": "BSD"
+  },
+  {
+    "CityCode": "ZAT"
+  },
+  {
+    "CityCode": "NLH"
+  },
+  {
+    "CityCode": "YUS"
+  },
+  {
+    "CityCode": "DAT"
+  },
+  {
+    "CityCode": "GOQ"
+  },
+  {
+    "CityCode": "GMQ"
+  },
+  {
+    "CityCode": "HXD"
+  },
+  {
+    "CityCode": "ERL"
+  }
+]

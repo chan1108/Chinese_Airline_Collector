@@ -1,0 +1,620 @@
+[
+  {
+    "iata": "PVG"
+  },
+  {
+    "iata": "SHA"
+  },
+  {
+    "iata": "SYX"
+  },
+  {
+    "iata": "HAK"
+  },
+  {
+    "iata": "ZUH"
+  },
+  {
+    "iata": "NNG"
+  },
+  {
+    "iata": "SZX"
+  },
+  {
+    "iata": "CAN"
+  },
+  {
+    "iata": "SWA"
+  },
+  {
+    "iata": "KMG"
+  },
+  {
+    "iata": "KWE"
+  },
+  {
+    "iata": "CSX"
+  },
+  {
+    "iata": "CKG"
+  },
+  {
+    "iata": "CTU"
+  },
+  {
+    "iata": "WUH"
+  },
+  {
+    "iata": "NNY"
+  },
+  {
+    "iata": "XIY"
+  },
+  {
+    "iata": "CGO"
+  },
+  {
+    "iata": "TAO"
+  },
+  {
+    "iata": "SJW"
+  },
+  {
+    "iata": "DLC"
+  },
+  {
+    "iata": "PKX"
+  },
+  {
+    "iata": "DDG"
+  },
+  {
+    "iata": "SHE"
+  },
+  {
+    "iata": "NBS"
+  },
+  {
+    "iata": "URC"
+  },
+  {
+    "iata": "CGQ"
+  },
+  {
+    "iata": "HRB"
+  },
+  {
+    "iata": "DQA"
+  },
+  {
+    "iata": "TFU"
+  },
+  {
+    "iata": "KHG"
+  },
+  {
+    "iata": "ZHA"
+  },
+  {
+    "iata": "YIW"
+  },
+  {
+    "iata": "NGB"
+  },
+  {
+    "iata": "HGH"
+  },
+  {
+    "iata": "NKG"
+  },
+  {
+    "iata": "DSN"
+  },
+  {
+    "iata": "JMU"
+  },
+  {
+    "iata": "XMN"
+  },
+  {
+    "iata": "WNZ"
+  },
+  {
+    "iata": "MIG"
+  },
+  {
+    "iata": "LHW"
+  },
+  {
+    "iata": "XNN"
+  },
+  {
+    "iata": "TNA"
+  },
+  {
+    "iata": "INC"
+  },
+  {
+    "iata": "CGD"
+  },
+  {
+    "iata": "LZO"
+  },
+  {
+    "iata": "LZY"
+  },
+  {
+    "iata": "HFE"
+  },
+  {
+    "iata": "YNZ"
+  },
+  {
+    "iata": "TYN"
+  },
+  {
+    "iata": "HET"
+  },
+  {
+    "iata": "JHG"
+  },
+  {
+    "iata": "SYM"
+  },
+  {
+    "iata": "KWL"
+  },
+  {
+    "iata": "FOC"
+  },
+  {
+    "iata": "YIC"
+  },
+  {
+    "iata": "HYN"
+  },
+  {
+    "iata": "KHN"
+  },
+  {
+    "iata": "XUZ"
+  },
+  {
+    "iata": "TSN"
+  },
+  {
+    "iata": "YLX"
+  },
+  {
+    "iata": "LZH"
+  },
+  {
+    "iata": "MXZ"
+  },
+  {
+    "iata": "HCJ"
+  },
+  {
+    "iata": "DLU"
+  },
+  {
+    "iata": "LJG"
+  },
+  {
+    "iata": "WMT"
+  },
+  {
+    "iata": "TXN"
+  },
+  {
+    "iata": "HSN"
+  },
+  {
+    "iata": "NAO"
+  },
+  {
+    "iata": "WSK"
+  },
+  {
+    "iata": "WUX"
+  },
+  {
+    "iata": "CZX"
+  },
+  {
+    "iata": "GYS"
+  },
+  {
+    "iata": "XAI"
+  },
+  {
+    "iata": "WDS"
+  },
+  {
+    "iata": "AKA"
+  },
+  {
+    "iata": "HIA"
+  },
+  {
+    "iata": "LYA"
+  },
+  {
+    "iata": "HZA"
+  },
+  {
+    "iata": "RIZ"
+  },
+  {
+    "iata": "JNG"
+  },
+  {
+    "iata": "ENY"
+  },
+  {
+    "iata": "YNJ"
+  },
+  {
+    "iata": "MDG"
+  },
+  {
+    "iata": "BHY"
+  },
+  {
+    "iata": "LUM"
+  },
+  {
+    "iata": "JJN"
+  },
+  {
+    "iata": "TCZ"
+  },
+  {
+    "iata": "ACX"
+  },
+  {
+    "iata": "LCX"
+  },
+  {
+    "iata": "KOW"
+  },
+  {
+    "iata": "PZI"
+  },
+  {
+    "iata": "BFJ"
+  },
+  {
+    "iata": "ZAT"
+  },
+  {
+    "iata": "ZYI"
+  },
+  {
+    "iata": "XIC"
+  },
+  {
+    "iata": "SQD"
+  },
+  {
+    "iata": "YBP"
+  },
+  {
+    "iata": "JUZ"
+  },
+  {
+    "iata": "DYG"
+  },
+  {
+    "iata": "LXA"
+  },
+  {
+    "iata": "SHS"
+  },
+  {
+    "iata": "ENH"
+  },
+  {
+    "iata": "YIH"
+  },
+  {
+    "iata": "AQG"
+  },
+  {
+    "iata": "JUH"
+  },
+  {
+    "iata": "WXN"
+  },
+  {
+    "iata": "DZH"
+  },
+  {
+    "iata": "DAX"
+  },
+  {
+    "iata": "WHA"
+  },
+  {
+    "iata": "HPG"
+  },
+  {
+    "iata": "BZX"
+  },
+  {
+    "iata": "NTG"
+  },
+  {
+    "iata": "XFN"
+  },
+  {
+    "iata": "YTY"
+  },
+  {
+    "iata": "FUG"
+  },
+  {
+    "iata": "LYG"
+  },
+  {
+    "iata": "LYI"
+  },
+  {
+    "iata": "YCU"
+  },
+  {
+    "iata": "GYU"
+  },
+  {
+    "iata": "LFQ"
+  },
+  {
+    "iata": "CIH"
+  },
+  {
+    "iata": "HDG"
+  },
+  {
+    "iata": "HTN"
+  },
+  {
+    "iata": "YNT"
+  },
+  {
+    "iata": "UYN"
+  },
+  {
+    "iata": "BPE"
+  },
+  {
+    "iata": "BAV"
+  },
+  {
+    "iata": "ZQZ"
+  },
+  {
+    "iata": "UCB"
+  },
+  {
+    "iata": "AOG"
+  },
+  {
+    "iata": "KRL"
+  },
+  {
+    "iata": "CIF"
+  },
+  {
+    "iata": "HMI"
+  },
+  {
+    "iata": "JXA"
+  },
+  {
+    "iata": "JGS"
+  },
+  {
+    "iata": "HUZ"
+  },
+  {
+    "iata": "JIQ"
+  },
+  {
+    "iata": "HZH"
+  },
+  {
+    "iata": "HNY"
+  },
+  {
+    "iata": "DIG"
+  },
+  {
+    "iata": "DCY"
+  },
+  {
+    "iata": "WUT"
+  },
+  {
+    "iata": "WUA"
+  },
+  {
+    "iata": "DAT"
+  },
+  {
+    "iata": "AKU"
+  },
+  {
+    "iata": "TGO"
+  },
+  {
+    "iata": "WEF"
+  },
+  {
+    "iata": "WEH"
+  },
+  {
+    "iata": "YIN"
+  },
+  {
+    "iata": "BPL"
+  },
+  {
+    "iata": "HLD"
+  },
+  {
+    "iata": "KRY"
+  },
+  {
+    "iata": "CHG"
+  },
+  {
+    "iata": "HSC"
+  },
+  {
+    "iata": "EHU"
+  },
+  {
+    "iata": "AAT"
+  },
+  {
+    "iata": "HEK"
+  },
+  {
+    "iata": "NDG"
+  },
+  {
+    "iata": "LDS"
+  },
+  {
+    "iata": "YTW"
+  },
+  {
+    "iata": "HQL"
+  },
+  {
+    "iata": "IQM"
+  },
+  {
+    "iata": "QSZ"
+  },
+  {
+    "iata": "TWC"
+  },
+  {
+    "iata": "ACF"
+  },
+  {
+    "iata": "KCA"
+  },
+  {
+    "iata": "ZFL"
+  },
+  {
+    "iata": "NLT"
+  },
+  {
+    "iata": "TCG"
+  },
+  {
+    "iata": "FYN"
+  },
+  {
+    "iata": "KJI"
+  },
+  {
+    "iata": "XIL"
+  },
+  {
+    "iata": "HLH"
+  },
+  {
+    "iata": "HJJ"
+  },
+  {
+    "iata": "JIU"
+  },
+  {
+    "iata": "IQN"
+  },
+  {
+    "iata": "DOY"
+  },
+  {
+    "iata": "SHF"
+  },
+  {
+    "iata": "JGD"
+  },
+  {
+    "iata": "DNH"
+  },
+  {
+    "iata": "BAR"
+  },
+  {
+    "iata": "YYA"
+  },
+  {
+    "iata": "JGN"
+  },
+  {
+    "iata": "AEB"
+  },
+  {
+    "iata": "LLV"
+  },
+  {
+    "iata": "JNZ"
+  },
+  {
+    "iata": "TNH"
+  },
+  {
+    "iata": "PEK"
+  },
+  {
+    "iata": "JMJ"
+  },
+  {
+    "iata": "CWJ"
+  },
+  {
+    "iata": "LNJ"
+  },
+  {
+    "iata": "BSD"
+  },
+  {
+    "iata": "NLH"
+  },
+  {
+    "iata": "WUZ"
+  },
+  {
+    "iata": "RKZ"
+  },
+  {
+    "iata": "YUS"
+  },
+  {
+    "iata": "GOQ"
+  },
+  {
+    "iata": "JIC"
+  },
+  {
+    "iata": "YZY"
+  },
+  {
+    "iata": "NGQ"
+  },
+  {
+    "iata": "GMQ"
+  },
+  {
+    "iata": "HXD"
+  },
+  {
+    "iata": "HTT"
+  }
+]
